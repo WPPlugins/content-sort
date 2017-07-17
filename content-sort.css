@@ -1,0 +1,12 @@
+
+#sortable1,#sortable2,#sortable3 { margin-bottom:5px; padding:2px; }
+#sortable1 li, #sortable2 li, #sortable3 li { margin:0; padding:4px 4px 4px 20px; font-size:12px; height:17px; border-bottom:1px solid #dfdfdf; cursor:move; font-weight:bold; }
+#sortable1 li span, #sortable2 li span, #sortable3 li span { position:absolute; padding:7px 5px 3px 3px; margin:2px 0 0 -15px; background-image:url('icon_sort.gif') }
+li .remove { font-weight: normal; float:right; }
+
+.search-box-content { float:none; }
+.input-search-field { width:300px; margin-right:10px; }
+.tablenav { display:inline-block; margin-left:10px; }
+
+.left_table_box { width:47%; float:left;  }
+.right_table_box { width:50%; float:right;  }
